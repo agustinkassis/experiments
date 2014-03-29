@@ -1,0 +1,18 @@
+{
+    "name":"Snake",
+    "width":45,
+    "height":96,
+    "url":"",
+    "autoStart":true,
+    "states":{
+        "default":{
+            "loops":0,
+            "frames": {
+                "center":[23,96],
+                "size":[46,96],
+                "position":[0,0],
+                "delay":300
+            }
+        }
+    }
+}
